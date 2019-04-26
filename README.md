@@ -5,3 +5,10 @@ This project worked with the Customer Satisfaction csv file. The data was cleane
 unsatisfactory experiences. Multiple linear regression using the Akaike information criterion (AIC), Naive Bayes classification,
 and support vector machine algorithms were used in the analysis. In addition to the algorithms employed, many graphs were made using R's ggplot2
 package during exploratory data analysis. The full report can be found in the word document.
+
+
+# csv sat
+
+This is the original data set used for the project. It contains nearly 130,000 observations and 28 variables.
+
+
